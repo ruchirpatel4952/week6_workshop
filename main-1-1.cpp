@@ -3,7 +3,7 @@
 #include<iostream>
 
 int main() {
-    Wizard wizard("Gandalf", 100, 10, 50);  // Increased damage to ensure the wizard wins
+    Wizard wizard("Gandalf", 100, 14, 50);  // Increased damage to ensure the wizard wins
 Warrior warrior("Aragorn", 120, 12, "Sword");
 
     std::cout << "Let the battle begin!\n";
