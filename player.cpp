@@ -1,4 +1,4 @@
-#include "Player.h"
+#include "player.h"
 #include <iostream>
 
 Player::Player(std::string _name, int _health, int _damage)

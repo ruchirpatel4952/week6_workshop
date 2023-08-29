@@ -1,4 +1,4 @@
-#include "Wizard.h"
+#include "wizard.h"
 #include <iostream>
 
 Wizard::Wizard(std::string _name, int _health, int _damage, int _mana)
